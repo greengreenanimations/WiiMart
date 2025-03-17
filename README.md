@@ -1,6 +1,6 @@
 # WiiMart: a working, active WSC revival
 
-<img src="https://github.com/WiiMart/WiiMart/blob/main/WiiMart_star_logo.png" alt="WiiMart's logo">
+<img src="https://file.garden/Z9Bs3ZQDFXkNPYbh/WiiMart_star_logo.png" alt="WiiMart's logo">
 
 Nintendo, if you want me to take this down, please email me at wiimartshopping@gmail.com
 (please don't though I love this)
@@ -9,7 +9,7 @@ WiiMart is the first ever Wii Shop Channel revival that lasted more than a week 
 You can find its source code here.
 
 # Download
-The cIOSes are [here](https://wiimart.github.io/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/wad/).
+The cIOSes are [here](https://wiimart.github.io/website/cIOS/) while WiiMart's WAD [here](https://wiimart.github.io/website/wad/).
 In the meantime, [join the Discord!](https://dsc.gg/WiiMart)
 
 # Installation
